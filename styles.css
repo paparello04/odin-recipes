@@ -4,11 +4,11 @@ header{
     align-items: flex-start;
 }
 
-.links-pages {
+header .links-pages {
 display: flex;
 align-content: end;
 }
-.logo{
+header .logo{
     height: 50px;
     width: 50px;
     display: flex;
