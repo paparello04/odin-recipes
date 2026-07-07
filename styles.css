@@ -7,18 +7,18 @@ header{
     
 }
 
-header .links-pages {
+.links-pages {
 display: flex;
 gap: 20px;
 }
 
-header .links-pags a {
+.links-pags a {
     color: white;
     text-decoration: none;
     font-size: 16px;
 }
 
-header .logo{
+.logo{
     height: 50px;
     width: 50px;
     display: flex;
