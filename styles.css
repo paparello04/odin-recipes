@@ -1,7 +1,7 @@
 header {
     background-color: #1f2937;
     display: flex;
-    align-content: space-between;
+    align-items: flex-start;
 }
 
 .logo {
@@ -16,7 +16,7 @@ header {
     font-style: none;
     font-size: 16px;
     display: flex;
-    justify-items: right;
+    align-content: end;
     gap: 10px;
 }
 
